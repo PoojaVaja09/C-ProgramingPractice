@@ -1,0 +1,13 @@
+D:\Sollers\C#Programs\HackerRankCoding\HackerRankCoding\bin\Debug\netcoreapp3.1\HackerRankCodingDay1.exe
+D:\Sollers\C#Programs\HackerRankCoding\HackerRankCoding\bin\Debug\netcoreapp3.1\HackerRankCodingDay1.deps.json
+D:\Sollers\C#Programs\HackerRankCoding\HackerRankCoding\bin\Debug\netcoreapp3.1\HackerRankCodingDay1.runtimeconfig.json
+D:\Sollers\C#Programs\HackerRankCoding\HackerRankCoding\bin\Debug\netcoreapp3.1\HackerRankCodingDay1.runtimeconfig.dev.json
+D:\Sollers\C#Programs\HackerRankCoding\HackerRankCoding\bin\Debug\netcoreapp3.1\HackerRankCodingDay1.dll
+D:\Sollers\C#Programs\HackerRankCoding\HackerRankCoding\bin\Debug\netcoreapp3.1\HackerRankCodingDay1.pdb
+D:\Sollers\C#Programs\HackerRankCoding\HackerRankCoding\obj\Debug\netcoreapp3.1\HackerRankCodingDay1.csprojAssemblyReference.cache
+D:\Sollers\C#Programs\HackerRankCoding\HackerRankCoding\obj\Debug\netcoreapp3.1\HackerRankCodingDay1.AssemblyInfoInputs.cache
+D:\Sollers\C#Programs\HackerRankCoding\HackerRankCoding\obj\Debug\netcoreapp3.1\HackerRankCodingDay1.AssemblyInfo.cs
+D:\Sollers\C#Programs\HackerRankCoding\HackerRankCoding\obj\Debug\netcoreapp3.1\HackerRankCodingDay1.csproj.CoreCompileInputs.cache
+D:\Sollers\C#Programs\HackerRankCoding\HackerRankCoding\obj\Debug\netcoreapp3.1\HackerRankCodingDay1.dll
+D:\Sollers\C#Programs\HackerRankCoding\HackerRankCoding\obj\Debug\netcoreapp3.1\HackerRankCodingDay1.pdb
+D:\Sollers\C#Programs\HackerRankCoding\HackerRankCoding\obj\Debug\netcoreapp3.1\HackerRankCodingDay1.genruntimeconfig.cache

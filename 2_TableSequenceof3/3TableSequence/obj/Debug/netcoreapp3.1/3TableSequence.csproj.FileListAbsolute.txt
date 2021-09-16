@@ -1,0 +1,13 @@
+D:\Sollers\C#Programs\3TableSequence\3TableSequence\obj\Debug\netcoreapp3.1\3TableSequence.csprojAssemblyReference.cache
+D:\Sollers\C#Programs\3TableSequence\3TableSequence\obj\Debug\netcoreapp3.1\3TableSequence.csproj.CoreCompileInputs.cache
+D:\Sollers\C#Programs\3TableSequence\3TableSequence\obj\Debug\netcoreapp3.1\3TableSequence.AssemblyInfoInputs.cache
+D:\Sollers\C#Programs\3TableSequence\3TableSequence\obj\Debug\netcoreapp3.1\3TableSequence.AssemblyInfo.cs
+D:\Sollers\C#Programs\3TableSequence\3TableSequence\bin\Debug\netcoreapp3.1\3TableSequence.exe
+D:\Sollers\C#Programs\3TableSequence\3TableSequence\bin\Debug\netcoreapp3.1\3TableSequence.deps.json
+D:\Sollers\C#Programs\3TableSequence\3TableSequence\bin\Debug\netcoreapp3.1\3TableSequence.runtimeconfig.json
+D:\Sollers\C#Programs\3TableSequence\3TableSequence\bin\Debug\netcoreapp3.1\3TableSequence.runtimeconfig.dev.json
+D:\Sollers\C#Programs\3TableSequence\3TableSequence\bin\Debug\netcoreapp3.1\3TableSequence.dll
+D:\Sollers\C#Programs\3TableSequence\3TableSequence\bin\Debug\netcoreapp3.1\3TableSequence.pdb
+D:\Sollers\C#Programs\3TableSequence\3TableSequence\obj\Debug\netcoreapp3.1\3TableSequence.dll
+D:\Sollers\C#Programs\3TableSequence\3TableSequence\obj\Debug\netcoreapp3.1\3TableSequence.pdb
+D:\Sollers\C#Programs\3TableSequence\3TableSequence\obj\Debug\netcoreapp3.1\3TableSequence.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Sollers\C#Programs\8_binarytriangle\8_binarytriangle\obj\Debug\netcoreapp3.1\8_binarytriangle.csprojAssemblyReference.cache
+D:\Sollers\C#Programs\8_binarytriangle\8_binarytriangle\obj\Debug\netcoreapp3.1\8_binarytriangle.csproj.CoreCompileInputs.cache
+D:\Sollers\C#Programs\8_binarytriangle\8_binarytriangle\obj\Debug\netcoreapp3.1\8_binarytriangle.AssemblyInfoInputs.cache
+D:\Sollers\C#Programs\8_binarytriangle\8_binarytriangle\obj\Debug\netcoreapp3.1\8_binarytriangle.AssemblyInfo.cs
+D:\Sollers\C#Programs\8_binarytriangle\8_binarytriangle\bin\Debug\netcoreapp3.1\8_binarytriangle.exe
+D:\Sollers\C#Programs\8_binarytriangle\8_binarytriangle\bin\Debug\netcoreapp3.1\8_binarytriangle.deps.json
+D:\Sollers\C#Programs\8_binarytriangle\8_binarytriangle\bin\Debug\netcoreapp3.1\8_binarytriangle.runtimeconfig.json
+D:\Sollers\C#Programs\8_binarytriangle\8_binarytriangle\bin\Debug\netcoreapp3.1\8_binarytriangle.runtimeconfig.dev.json
+D:\Sollers\C#Programs\8_binarytriangle\8_binarytriangle\bin\Debug\netcoreapp3.1\8_binarytriangle.dll
+D:\Sollers\C#Programs\8_binarytriangle\8_binarytriangle\bin\Debug\netcoreapp3.1\8_binarytriangle.pdb
+D:\Sollers\C#Programs\8_binarytriangle\8_binarytriangle\obj\Debug\netcoreapp3.1\8_binarytriangle.dll
+D:\Sollers\C#Programs\8_binarytriangle\8_binarytriangle\obj\Debug\netcoreapp3.1\8_binarytriangle.pdb
+D:\Sollers\C#Programs\8_binarytriangle\8_binarytriangle\obj\Debug\netcoreapp3.1\8_binarytriangle.genruntimeconfig.cache

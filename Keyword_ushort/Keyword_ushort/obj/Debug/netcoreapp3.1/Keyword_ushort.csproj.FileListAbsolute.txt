@@ -1,0 +1,12 @@
+D:\Sollers\Keyword_ushort\Keyword_ushort\bin\Debug\netcoreapp3.1\Keyword_ushort.exe
+D:\Sollers\Keyword_ushort\Keyword_ushort\bin\Debug\netcoreapp3.1\Keyword_ushort.deps.json
+D:\Sollers\Keyword_ushort\Keyword_ushort\bin\Debug\netcoreapp3.1\Keyword_ushort.runtimeconfig.json
+D:\Sollers\Keyword_ushort\Keyword_ushort\bin\Debug\netcoreapp3.1\Keyword_ushort.runtimeconfig.dev.json
+D:\Sollers\Keyword_ushort\Keyword_ushort\bin\Debug\netcoreapp3.1\Keyword_ushort.dll
+D:\Sollers\Keyword_ushort\Keyword_ushort\bin\Debug\netcoreapp3.1\Keyword_ushort.pdb
+D:\Sollers\Keyword_ushort\Keyword_ushort\obj\Debug\netcoreapp3.1\Keyword_ushort.csproj.CoreCompileInputs.cache
+D:\Sollers\Keyword_ushort\Keyword_ushort\obj\Debug\netcoreapp3.1\Keyword_ushort.AssemblyInfoInputs.cache
+D:\Sollers\Keyword_ushort\Keyword_ushort\obj\Debug\netcoreapp3.1\Keyword_ushort.AssemblyInfo.cs
+D:\Sollers\Keyword_ushort\Keyword_ushort\obj\Debug\netcoreapp3.1\Keyword_ushort.dll
+D:\Sollers\Keyword_ushort\Keyword_ushort\obj\Debug\netcoreapp3.1\Keyword_ushort.pdb
+D:\Sollers\Keyword_ushort\Keyword_ushort\obj\Debug\netcoreapp3.1\Keyword_ushort.genruntimeconfig.cache

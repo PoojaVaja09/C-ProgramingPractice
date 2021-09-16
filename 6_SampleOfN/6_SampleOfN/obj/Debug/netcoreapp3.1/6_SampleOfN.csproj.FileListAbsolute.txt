@@ -1,0 +1,13 @@
+D:\Sollers\C#Programs\6_SampleOfN\6_SampleOfN\bin\Debug\netcoreapp3.1\6_SampleOfN.exe
+D:\Sollers\C#Programs\6_SampleOfN\6_SampleOfN\bin\Debug\netcoreapp3.1\6_SampleOfN.deps.json
+D:\Sollers\C#Programs\6_SampleOfN\6_SampleOfN\bin\Debug\netcoreapp3.1\6_SampleOfN.runtimeconfig.json
+D:\Sollers\C#Programs\6_SampleOfN\6_SampleOfN\bin\Debug\netcoreapp3.1\6_SampleOfN.runtimeconfig.dev.json
+D:\Sollers\C#Programs\6_SampleOfN\6_SampleOfN\bin\Debug\netcoreapp3.1\6_SampleOfN.dll
+D:\Sollers\C#Programs\6_SampleOfN\6_SampleOfN\bin\Debug\netcoreapp3.1\6_SampleOfN.pdb
+D:\Sollers\C#Programs\6_SampleOfN\6_SampleOfN\obj\Debug\netcoreapp3.1\6_SampleOfN.csprojAssemblyReference.cache
+D:\Sollers\C#Programs\6_SampleOfN\6_SampleOfN\obj\Debug\netcoreapp3.1\6_SampleOfN.csproj.CoreCompileInputs.cache
+D:\Sollers\C#Programs\6_SampleOfN\6_SampleOfN\obj\Debug\netcoreapp3.1\6_SampleOfN.AssemblyInfoInputs.cache
+D:\Sollers\C#Programs\6_SampleOfN\6_SampleOfN\obj\Debug\netcoreapp3.1\6_SampleOfN.AssemblyInfo.cs
+D:\Sollers\C#Programs\6_SampleOfN\6_SampleOfN\obj\Debug\netcoreapp3.1\6_SampleOfN.dll
+D:\Sollers\C#Programs\6_SampleOfN\6_SampleOfN\obj\Debug\netcoreapp3.1\6_SampleOfN.pdb
+D:\Sollers\C#Programs\6_SampleOfN\6_SampleOfN\obj\Debug\netcoreapp3.1\6_SampleOfN.genruntimeconfig.cache

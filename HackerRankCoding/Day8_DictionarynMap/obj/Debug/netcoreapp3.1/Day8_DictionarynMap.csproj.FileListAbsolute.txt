@@ -1,0 +1,13 @@
+D:\Sollers\C#Programs\HackerRankCoding\Day8_DictionarynMap\bin\Debug\netcoreapp3.1\Day8_DictionarynMap.exe
+D:\Sollers\C#Programs\HackerRankCoding\Day8_DictionarynMap\bin\Debug\netcoreapp3.1\Day8_DictionarynMap.deps.json
+D:\Sollers\C#Programs\HackerRankCoding\Day8_DictionarynMap\bin\Debug\netcoreapp3.1\Day8_DictionarynMap.runtimeconfig.json
+D:\Sollers\C#Programs\HackerRankCoding\Day8_DictionarynMap\bin\Debug\netcoreapp3.1\Day8_DictionarynMap.runtimeconfig.dev.json
+D:\Sollers\C#Programs\HackerRankCoding\Day8_DictionarynMap\bin\Debug\netcoreapp3.1\Day8_DictionarynMap.dll
+D:\Sollers\C#Programs\HackerRankCoding\Day8_DictionarynMap\bin\Debug\netcoreapp3.1\Day8_DictionarynMap.pdb
+D:\Sollers\C#Programs\HackerRankCoding\Day8_DictionarynMap\obj\Debug\netcoreapp3.1\Day8_DictionarynMap.csprojAssemblyReference.cache
+D:\Sollers\C#Programs\HackerRankCoding\Day8_DictionarynMap\obj\Debug\netcoreapp3.1\Day8_DictionarynMap.AssemblyInfoInputs.cache
+D:\Sollers\C#Programs\HackerRankCoding\Day8_DictionarynMap\obj\Debug\netcoreapp3.1\Day8_DictionarynMap.AssemblyInfo.cs
+D:\Sollers\C#Programs\HackerRankCoding\Day8_DictionarynMap\obj\Debug\netcoreapp3.1\Day8_DictionarynMap.csproj.CoreCompileInputs.cache
+D:\Sollers\C#Programs\HackerRankCoding\Day8_DictionarynMap\obj\Debug\netcoreapp3.1\Day8_DictionarynMap.dll
+D:\Sollers\C#Programs\HackerRankCoding\Day8_DictionarynMap\obj\Debug\netcoreapp3.1\Day8_DictionarynMap.pdb
+D:\Sollers\C#Programs\HackerRankCoding\Day8_DictionarynMap\obj\Debug\netcoreapp3.1\Day8_DictionarynMap.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Sollers\C#Programs\Assessment2\Assessment2\bin\Debug\netcoreapp3.1\Assessment2.exe
+D:\Sollers\C#Programs\Assessment2\Assessment2\bin\Debug\netcoreapp3.1\Assessment2.deps.json
+D:\Sollers\C#Programs\Assessment2\Assessment2\bin\Debug\netcoreapp3.1\Assessment2.runtimeconfig.json
+D:\Sollers\C#Programs\Assessment2\Assessment2\bin\Debug\netcoreapp3.1\Assessment2.runtimeconfig.dev.json
+D:\Sollers\C#Programs\Assessment2\Assessment2\bin\Debug\netcoreapp3.1\Assessment2.dll
+D:\Sollers\C#Programs\Assessment2\Assessment2\bin\Debug\netcoreapp3.1\Assessment2.pdb
+D:\Sollers\C#Programs\Assessment2\Assessment2\obj\Debug\netcoreapp3.1\Assessment2.csprojAssemblyReference.cache
+D:\Sollers\C#Programs\Assessment2\Assessment2\obj\Debug\netcoreapp3.1\Assessment2.csproj.CoreCompileInputs.cache
+D:\Sollers\C#Programs\Assessment2\Assessment2\obj\Debug\netcoreapp3.1\Assessment2.AssemblyInfoInputs.cache
+D:\Sollers\C#Programs\Assessment2\Assessment2\obj\Debug\netcoreapp3.1\Assessment2.AssemblyInfo.cs
+D:\Sollers\C#Programs\Assessment2\Assessment2\obj\Debug\netcoreapp3.1\Assessment2.dll
+D:\Sollers\C#Programs\Assessment2\Assessment2\obj\Debug\netcoreapp3.1\Assessment2.pdb
+D:\Sollers\C#Programs\Assessment2\Assessment2\obj\Debug\netcoreapp3.1\Assessment2.genruntimeconfig.cache

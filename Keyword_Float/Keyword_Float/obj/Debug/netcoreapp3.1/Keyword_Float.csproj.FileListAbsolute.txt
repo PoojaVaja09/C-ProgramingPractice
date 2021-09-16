@@ -1,0 +1,13 @@
+D:\Sollers\Keyword_Float\Keyword_Float\bin\Debug\netcoreapp3.1\Keyword_Float.exe
+D:\Sollers\Keyword_Float\Keyword_Float\bin\Debug\netcoreapp3.1\Keyword_Float.deps.json
+D:\Sollers\Keyword_Float\Keyword_Float\bin\Debug\netcoreapp3.1\Keyword_Float.runtimeconfig.json
+D:\Sollers\Keyword_Float\Keyword_Float\bin\Debug\netcoreapp3.1\Keyword_Float.runtimeconfig.dev.json
+D:\Sollers\Keyword_Float\Keyword_Float\bin\Debug\netcoreapp3.1\Keyword_Float.dll
+D:\Sollers\Keyword_Float\Keyword_Float\bin\Debug\netcoreapp3.1\Keyword_Float.pdb
+D:\Sollers\Keyword_Float\Keyword_Float\obj\Debug\netcoreapp3.1\Keyword_Float.csprojAssemblyReference.cache
+D:\Sollers\Keyword_Float\Keyword_Float\obj\Debug\netcoreapp3.1\Keyword_Float.csproj.CoreCompileInputs.cache
+D:\Sollers\Keyword_Float\Keyword_Float\obj\Debug\netcoreapp3.1\Keyword_Float.AssemblyInfoInputs.cache
+D:\Sollers\Keyword_Float\Keyword_Float\obj\Debug\netcoreapp3.1\Keyword_Float.AssemblyInfo.cs
+D:\Sollers\Keyword_Float\Keyword_Float\obj\Debug\netcoreapp3.1\Keyword_Float.dll
+D:\Sollers\Keyword_Float\Keyword_Float\obj\Debug\netcoreapp3.1\Keyword_Float.pdb
+D:\Sollers\Keyword_Float\Keyword_Float\obj\Debug\netcoreapp3.1\Keyword_Float.genruntimeconfig.cache

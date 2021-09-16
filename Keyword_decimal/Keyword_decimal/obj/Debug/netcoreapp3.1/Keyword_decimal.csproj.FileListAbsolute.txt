@@ -1,0 +1,13 @@
+D:\Sollers\Keyword_decimal\Keyword_decimal\obj\Debug\netcoreapp3.1\Keyword_decimal.csproj.CoreCompileInputs.cache
+D:\Sollers\Keyword_decimal\Keyword_decimal\obj\Debug\netcoreapp3.1\Keyword_decimal.AssemblyInfoInputs.cache
+D:\Sollers\Keyword_decimal\Keyword_decimal\obj\Debug\netcoreapp3.1\Keyword_decimal.AssemblyInfo.cs
+D:\Sollers\Keyword_decimal\Keyword_decimal\bin\Debug\netcoreapp3.1\Keyword_decimal.exe
+D:\Sollers\Keyword_decimal\Keyword_decimal\bin\Debug\netcoreapp3.1\Keyword_decimal.deps.json
+D:\Sollers\Keyword_decimal\Keyword_decimal\bin\Debug\netcoreapp3.1\Keyword_decimal.runtimeconfig.json
+D:\Sollers\Keyword_decimal\Keyword_decimal\bin\Debug\netcoreapp3.1\Keyword_decimal.runtimeconfig.dev.json
+D:\Sollers\Keyword_decimal\Keyword_decimal\bin\Debug\netcoreapp3.1\Keyword_decimal.dll
+D:\Sollers\Keyword_decimal\Keyword_decimal\bin\Debug\netcoreapp3.1\Keyword_decimal.pdb
+D:\Sollers\Keyword_decimal\Keyword_decimal\obj\Debug\netcoreapp3.1\Keyword_decimal.dll
+D:\Sollers\Keyword_decimal\Keyword_decimal\obj\Debug\netcoreapp3.1\Keyword_decimal.pdb
+D:\Sollers\Keyword_decimal\Keyword_decimal\obj\Debug\netcoreapp3.1\Keyword_decimal.genruntimeconfig.cache
+D:\Sollers\Keyword_decimal\Keyword_decimal\obj\Debug\netcoreapp3.1\Keyword_decimal.csprojAssemblyReference.cache

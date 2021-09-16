@@ -1,0 +1,13 @@
+D:\Sollers\Keyword_ulong\Keyword_ulong\bin\Debug\netcoreapp3.1\Keyword_ulong.exe
+D:\Sollers\Keyword_ulong\Keyword_ulong\bin\Debug\netcoreapp3.1\Keyword_ulong.deps.json
+D:\Sollers\Keyword_ulong\Keyword_ulong\bin\Debug\netcoreapp3.1\Keyword_ulong.runtimeconfig.json
+D:\Sollers\Keyword_ulong\Keyword_ulong\bin\Debug\netcoreapp3.1\Keyword_ulong.runtimeconfig.dev.json
+D:\Sollers\Keyword_ulong\Keyword_ulong\bin\Debug\netcoreapp3.1\Keyword_ulong.dll
+D:\Sollers\Keyword_ulong\Keyword_ulong\bin\Debug\netcoreapp3.1\Keyword_ulong.pdb
+D:\Sollers\Keyword_ulong\Keyword_ulong\obj\Debug\netcoreapp3.1\Keyword_ulong.csprojAssemblyReference.cache
+D:\Sollers\Keyword_ulong\Keyword_ulong\obj\Debug\netcoreapp3.1\Keyword_ulong.csproj.CoreCompileInputs.cache
+D:\Sollers\Keyword_ulong\Keyword_ulong\obj\Debug\netcoreapp3.1\Keyword_ulong.AssemblyInfoInputs.cache
+D:\Sollers\Keyword_ulong\Keyword_ulong\obj\Debug\netcoreapp3.1\Keyword_ulong.AssemblyInfo.cs
+D:\Sollers\Keyword_ulong\Keyword_ulong\obj\Debug\netcoreapp3.1\Keyword_ulong.dll
+D:\Sollers\Keyword_ulong\Keyword_ulong\obj\Debug\netcoreapp3.1\Keyword_ulong.pdb
+D:\Sollers\Keyword_ulong\Keyword_ulong\obj\Debug\netcoreapp3.1\Keyword_ulong.genruntimeconfig.cache

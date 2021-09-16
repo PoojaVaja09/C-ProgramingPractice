@@ -1,0 +1,13 @@
+D:\Sollers\C#Programs\7_Temperature\7_Temperature\bin\Debug\netcoreapp3.1\7_Temperature.exe
+D:\Sollers\C#Programs\7_Temperature\7_Temperature\bin\Debug\netcoreapp3.1\7_Temperature.deps.json
+D:\Sollers\C#Programs\7_Temperature\7_Temperature\bin\Debug\netcoreapp3.1\7_Temperature.runtimeconfig.json
+D:\Sollers\C#Programs\7_Temperature\7_Temperature\bin\Debug\netcoreapp3.1\7_Temperature.runtimeconfig.dev.json
+D:\Sollers\C#Programs\7_Temperature\7_Temperature\bin\Debug\netcoreapp3.1\7_Temperature.dll
+D:\Sollers\C#Programs\7_Temperature\7_Temperature\bin\Debug\netcoreapp3.1\7_Temperature.pdb
+D:\Sollers\C#Programs\7_Temperature\7_Temperature\obj\Debug\netcoreapp3.1\7_Temperature.csprojAssemblyReference.cache
+D:\Sollers\C#Programs\7_Temperature\7_Temperature\obj\Debug\netcoreapp3.1\7_Temperature.csproj.CoreCompileInputs.cache
+D:\Sollers\C#Programs\7_Temperature\7_Temperature\obj\Debug\netcoreapp3.1\7_Temperature.AssemblyInfoInputs.cache
+D:\Sollers\C#Programs\7_Temperature\7_Temperature\obj\Debug\netcoreapp3.1\7_Temperature.AssemblyInfo.cs
+D:\Sollers\C#Programs\7_Temperature\7_Temperature\obj\Debug\netcoreapp3.1\7_Temperature.dll
+D:\Sollers\C#Programs\7_Temperature\7_Temperature\obj\Debug\netcoreapp3.1\7_Temperature.pdb
+D:\Sollers\C#Programs\7_Temperature\7_Temperature\obj\Debug\netcoreapp3.1\7_Temperature.genruntimeconfig.cache

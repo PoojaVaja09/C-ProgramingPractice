@@ -1,0 +1,13 @@
+D:\Sollers\C#Programs\4_5Table\4_5Table\bin\Debug\netcoreapp3.1\4_5Table.exe
+D:\Sollers\C#Programs\4_5Table\4_5Table\bin\Debug\netcoreapp3.1\4_5Table.deps.json
+D:\Sollers\C#Programs\4_5Table\4_5Table\bin\Debug\netcoreapp3.1\4_5Table.runtimeconfig.json
+D:\Sollers\C#Programs\4_5Table\4_5Table\bin\Debug\netcoreapp3.1\4_5Table.runtimeconfig.dev.json
+D:\Sollers\C#Programs\4_5Table\4_5Table\bin\Debug\netcoreapp3.1\4_5Table.dll
+D:\Sollers\C#Programs\4_5Table\4_5Table\bin\Debug\netcoreapp3.1\4_5Table.pdb
+D:\Sollers\C#Programs\4_5Table\4_5Table\obj\Debug\netcoreapp3.1\4_5Table.csproj.CoreCompileInputs.cache
+D:\Sollers\C#Programs\4_5Table\4_5Table\obj\Debug\netcoreapp3.1\4_5Table.AssemblyInfoInputs.cache
+D:\Sollers\C#Programs\4_5Table\4_5Table\obj\Debug\netcoreapp3.1\4_5Table.AssemblyInfo.cs
+D:\Sollers\C#Programs\4_5Table\4_5Table\obj\Debug\netcoreapp3.1\4_5Table.dll
+D:\Sollers\C#Programs\4_5Table\4_5Table\obj\Debug\netcoreapp3.1\4_5Table.pdb
+D:\Sollers\C#Programs\4_5Table\4_5Table\obj\Debug\netcoreapp3.1\4_5Table.genruntimeconfig.cache
+D:\Sollers\C#Programs\4_5Table\4_5Table\obj\Debug\netcoreapp3.1\4_5Table.csprojAssemblyReference.cache

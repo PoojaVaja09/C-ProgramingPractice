@@ -1,0 +1,13 @@
+D:\Sollers\C#Programs\HackerRankCoding\Day16_ExceptionStringToInteger\bin\Debug\netcoreapp3.1\Day16_ExceptionStringToInteger.exe
+D:\Sollers\C#Programs\HackerRankCoding\Day16_ExceptionStringToInteger\bin\Debug\netcoreapp3.1\Day16_ExceptionStringToInteger.deps.json
+D:\Sollers\C#Programs\HackerRankCoding\Day16_ExceptionStringToInteger\bin\Debug\netcoreapp3.1\Day16_ExceptionStringToInteger.runtimeconfig.json
+D:\Sollers\C#Programs\HackerRankCoding\Day16_ExceptionStringToInteger\bin\Debug\netcoreapp3.1\Day16_ExceptionStringToInteger.runtimeconfig.dev.json
+D:\Sollers\C#Programs\HackerRankCoding\Day16_ExceptionStringToInteger\bin\Debug\netcoreapp3.1\Day16_ExceptionStringToInteger.dll
+D:\Sollers\C#Programs\HackerRankCoding\Day16_ExceptionStringToInteger\bin\Debug\netcoreapp3.1\Day16_ExceptionStringToInteger.pdb
+D:\Sollers\C#Programs\HackerRankCoding\Day16_ExceptionStringToInteger\obj\Debug\netcoreapp3.1\Day16_ExceptionStringToInteger.csprojAssemblyReference.cache
+D:\Sollers\C#Programs\HackerRankCoding\Day16_ExceptionStringToInteger\obj\Debug\netcoreapp3.1\Day16_ExceptionStringToInteger.AssemblyInfoInputs.cache
+D:\Sollers\C#Programs\HackerRankCoding\Day16_ExceptionStringToInteger\obj\Debug\netcoreapp3.1\Day16_ExceptionStringToInteger.AssemblyInfo.cs
+D:\Sollers\C#Programs\HackerRankCoding\Day16_ExceptionStringToInteger\obj\Debug\netcoreapp3.1\Day16_ExceptionStringToInteger.csproj.CoreCompileInputs.cache
+D:\Sollers\C#Programs\HackerRankCoding\Day16_ExceptionStringToInteger\obj\Debug\netcoreapp3.1\Day16_ExceptionStringToInteger.dll
+D:\Sollers\C#Programs\HackerRankCoding\Day16_ExceptionStringToInteger\obj\Debug\netcoreapp3.1\Day16_ExceptionStringToInteger.pdb
+D:\Sollers\C#Programs\HackerRankCoding\Day16_ExceptionStringToInteger\obj\Debug\netcoreapp3.1\Day16_ExceptionStringToInteger.genruntimeconfig.cache

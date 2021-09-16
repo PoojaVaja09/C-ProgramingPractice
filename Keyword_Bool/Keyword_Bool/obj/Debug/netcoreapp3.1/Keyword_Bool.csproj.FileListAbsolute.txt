@@ -1,0 +1,12 @@
+D:\Sollers\Keyword_Bool\Keyword_Bool\bin\Debug\netcoreapp3.1\Keyword_Bool.exe
+D:\Sollers\Keyword_Bool\Keyword_Bool\bin\Debug\netcoreapp3.1\Keyword_Bool.deps.json
+D:\Sollers\Keyword_Bool\Keyword_Bool\bin\Debug\netcoreapp3.1\Keyword_Bool.runtimeconfig.json
+D:\Sollers\Keyword_Bool\Keyword_Bool\bin\Debug\netcoreapp3.1\Keyword_Bool.runtimeconfig.dev.json
+D:\Sollers\Keyword_Bool\Keyword_Bool\bin\Debug\netcoreapp3.1\Keyword_Bool.dll
+D:\Sollers\Keyword_Bool\Keyword_Bool\bin\Debug\netcoreapp3.1\Keyword_Bool.pdb
+D:\Sollers\Keyword_Bool\Keyword_Bool\obj\Debug\netcoreapp3.1\Keyword_Bool.csproj.CoreCompileInputs.cache
+D:\Sollers\Keyword_Bool\Keyword_Bool\obj\Debug\netcoreapp3.1\Keyword_Bool.AssemblyInfoInputs.cache
+D:\Sollers\Keyword_Bool\Keyword_Bool\obj\Debug\netcoreapp3.1\Keyword_Bool.AssemblyInfo.cs
+D:\Sollers\Keyword_Bool\Keyword_Bool\obj\Debug\netcoreapp3.1\Keyword_Bool.dll
+D:\Sollers\Keyword_Bool\Keyword_Bool\obj\Debug\netcoreapp3.1\Keyword_Bool.pdb
+D:\Sollers\Keyword_Bool\Keyword_Bool\obj\Debug\netcoreapp3.1\Keyword_Bool.genruntimeconfig.cache

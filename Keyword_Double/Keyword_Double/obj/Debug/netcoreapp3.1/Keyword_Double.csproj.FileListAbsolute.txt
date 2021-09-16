@@ -1,0 +1,13 @@
+D:\Sollers\Keyword_Double\Keyword_Double\obj\Debug\netcoreapp3.1\Keyword_Double.csprojAssemblyReference.cache
+D:\Sollers\Keyword_Double\Keyword_Double\obj\Debug\netcoreapp3.1\Keyword_Double.csproj.CoreCompileInputs.cache
+D:\Sollers\Keyword_Double\Keyword_Double\obj\Debug\netcoreapp3.1\Keyword_Double.AssemblyInfoInputs.cache
+D:\Sollers\Keyword_Double\Keyword_Double\obj\Debug\netcoreapp3.1\Keyword_Double.AssemblyInfo.cs
+D:\Sollers\Keyword_Double\Keyword_Double\bin\Debug\netcoreapp3.1\Keyword_Double.exe
+D:\Sollers\Keyword_Double\Keyword_Double\bin\Debug\netcoreapp3.1\Keyword_Double.deps.json
+D:\Sollers\Keyword_Double\Keyword_Double\bin\Debug\netcoreapp3.1\Keyword_Double.runtimeconfig.json
+D:\Sollers\Keyword_Double\Keyword_Double\bin\Debug\netcoreapp3.1\Keyword_Double.runtimeconfig.dev.json
+D:\Sollers\Keyword_Double\Keyword_Double\bin\Debug\netcoreapp3.1\Keyword_Double.dll
+D:\Sollers\Keyword_Double\Keyword_Double\bin\Debug\netcoreapp3.1\Keyword_Double.pdb
+D:\Sollers\Keyword_Double\Keyword_Double\obj\Debug\netcoreapp3.1\Keyword_Double.dll
+D:\Sollers\Keyword_Double\Keyword_Double\obj\Debug\netcoreapp3.1\Keyword_Double.pdb
+D:\Sollers\Keyword_Double\Keyword_Double\obj\Debug\netcoreapp3.1\Keyword_Double.genruntimeconfig.cache

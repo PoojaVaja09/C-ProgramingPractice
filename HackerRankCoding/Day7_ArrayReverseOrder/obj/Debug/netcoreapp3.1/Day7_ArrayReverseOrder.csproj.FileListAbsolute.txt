@@ -1,0 +1,26 @@
+D:\Sollers\C#Programs\HackerRankCoding\Day7_ArrayReverseOrder\bin\Debug\netcoreapp3.1\Day7_ArrayReverseOrder.exe
+D:\Sollers\C#Programs\HackerRankCoding\Day7_ArrayReverseOrder\bin\Debug\netcoreapp3.1\Day7_ArrayReverseOrder.deps.json
+D:\Sollers\C#Programs\HackerRankCoding\Day7_ArrayReverseOrder\bin\Debug\netcoreapp3.1\Day7_ArrayReverseOrder.runtimeconfig.json
+D:\Sollers\C#Programs\HackerRankCoding\Day7_ArrayReverseOrder\bin\Debug\netcoreapp3.1\Day7_ArrayReverseOrder.runtimeconfig.dev.json
+D:\Sollers\C#Programs\HackerRankCoding\Day7_ArrayReverseOrder\bin\Debug\netcoreapp3.1\Day7_ArrayReverseOrder.dll
+D:\Sollers\C#Programs\HackerRankCoding\Day7_ArrayReverseOrder\bin\Debug\netcoreapp3.1\Day7_ArrayReverseOrder.pdb
+D:\Sollers\C#Programs\HackerRankCoding\Day7_ArrayReverseOrder\obj\Debug\netcoreapp3.1\Day7_ArrayReverseOrder.AssemblyInfoInputs.cache
+D:\Sollers\C#Programs\HackerRankCoding\Day7_ArrayReverseOrder\obj\Debug\netcoreapp3.1\Day7_ArrayReverseOrder.AssemblyInfo.cs
+D:\Sollers\C#Programs\HackerRankCoding\Day7_ArrayReverseOrder\obj\Debug\netcoreapp3.1\Day7_ArrayReverseOrder.csproj.CoreCompileInputs.cache
+D:\Sollers\C#Programs\HackerRankCoding\Day7_ArrayReverseOrder\obj\Debug\netcoreapp3.1\Day7_ArrayReverseOrder.dll
+D:\Sollers\C#Programs\HackerRankCoding\Day7_ArrayReverseOrder\obj\Debug\netcoreapp3.1\Day7_ArrayReverseOrder.pdb
+D:\Sollers\C#Programs\HackerRankCoding\Day7_ArrayReverseOrder\obj\Debug\netcoreapp3.1\Day7_ArrayReverseOrder.genruntimeconfig.cache
+D:\Sollers\C#Programs\HackerRankCoding\Day7_ArrayReverseOrder\obj\Debug\netcoreapp3.1\Day7_ArrayReverseOrder.csprojAssemblyReference.cache
+D:\Sollers\Azure full stack2020\Foundation track\C# Programing\C#Programs\HackerRankCoding\Day7_ArrayReverseOrder\bin\Debug\netcoreapp3.1\Day7_ArrayReverseOrder.exe
+D:\Sollers\Azure full stack2020\Foundation track\C# Programing\C#Programs\HackerRankCoding\Day7_ArrayReverseOrder\bin\Debug\netcoreapp3.1\Day7_ArrayReverseOrder.deps.json
+D:\Sollers\Azure full stack2020\Foundation track\C# Programing\C#Programs\HackerRankCoding\Day7_ArrayReverseOrder\bin\Debug\netcoreapp3.1\Day7_ArrayReverseOrder.runtimeconfig.json
+D:\Sollers\Azure full stack2020\Foundation track\C# Programing\C#Programs\HackerRankCoding\Day7_ArrayReverseOrder\bin\Debug\netcoreapp3.1\Day7_ArrayReverseOrder.runtimeconfig.dev.json
+D:\Sollers\Azure full stack2020\Foundation track\C# Programing\C#Programs\HackerRankCoding\Day7_ArrayReverseOrder\bin\Debug\netcoreapp3.1\Day7_ArrayReverseOrder.dll
+D:\Sollers\Azure full stack2020\Foundation track\C# Programing\C#Programs\HackerRankCoding\Day7_ArrayReverseOrder\bin\Debug\netcoreapp3.1\Day7_ArrayReverseOrder.pdb
+D:\Sollers\Azure full stack2020\Foundation track\C# Programing\C#Programs\HackerRankCoding\Day7_ArrayReverseOrder\obj\Debug\netcoreapp3.1\Day7_ArrayReverseOrder.AssemblyInfoInputs.cache
+D:\Sollers\Azure full stack2020\Foundation track\C# Programing\C#Programs\HackerRankCoding\Day7_ArrayReverseOrder\obj\Debug\netcoreapp3.1\Day7_ArrayReverseOrder.AssemblyInfo.cs
+D:\Sollers\Azure full stack2020\Foundation track\C# Programing\C#Programs\HackerRankCoding\Day7_ArrayReverseOrder\obj\Debug\netcoreapp3.1\Day7_ArrayReverseOrder.csproj.CoreCompileInputs.cache
+D:\Sollers\Azure full stack2020\Foundation track\C# Programing\C#Programs\HackerRankCoding\Day7_ArrayReverseOrder\obj\Debug\netcoreapp3.1\Day7_ArrayReverseOrder.dll
+D:\Sollers\Azure full stack2020\Foundation track\C# Programing\C#Programs\HackerRankCoding\Day7_ArrayReverseOrder\obj\Debug\netcoreapp3.1\Day7_ArrayReverseOrder.pdb
+D:\Sollers\Azure full stack2020\Foundation track\C# Programing\C#Programs\HackerRankCoding\Day7_ArrayReverseOrder\obj\Debug\netcoreapp3.1\Day7_ArrayReverseOrder.genruntimeconfig.cache
+D:\Sollers\Azure full stack2020\Foundation track\C# Programing\C#Programs\HackerRankCoding\Day7_ArrayReverseOrder\obj\Debug\netcoreapp3.1\Day7_ArrayReverseOrder.csproj.AssemblyReference.cache

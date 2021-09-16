@@ -1,0 +1,13 @@
+D:\Sollers\C#Programs\Palindrome\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.exe
+D:\Sollers\C#Programs\Palindrome\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.deps.json
+D:\Sollers\C#Programs\Palindrome\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.runtimeconfig.json
+D:\Sollers\C#Programs\Palindrome\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.runtimeconfig.dev.json
+D:\Sollers\C#Programs\Palindrome\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.dll
+D:\Sollers\C#Programs\Palindrome\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.pdb
+D:\Sollers\C#Programs\Palindrome\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.csprojAssemblyReference.cache
+D:\Sollers\C#Programs\Palindrome\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.AssemblyInfoInputs.cache
+D:\Sollers\C#Programs\Palindrome\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.AssemblyInfo.cs
+D:\Sollers\C#Programs\Palindrome\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.csproj.CoreCompileInputs.cache
+D:\Sollers\C#Programs\Palindrome\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.dll
+D:\Sollers\C#Programs\Palindrome\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.pdb
+D:\Sollers\C#Programs\Palindrome\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.genruntimeconfig.cache

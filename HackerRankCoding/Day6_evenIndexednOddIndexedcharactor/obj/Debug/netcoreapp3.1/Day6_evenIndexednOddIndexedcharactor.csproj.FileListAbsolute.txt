@@ -1,0 +1,13 @@
+D:\Sollers\C#Programs\HackerRankCoding\Day6_evenIndexednOddIndexedcharactor\bin\Debug\netcoreapp3.1\Day6_evenIndexednOddIndexedcharactor.exe
+D:\Sollers\C#Programs\HackerRankCoding\Day6_evenIndexednOddIndexedcharactor\bin\Debug\netcoreapp3.1\Day6_evenIndexednOddIndexedcharactor.deps.json
+D:\Sollers\C#Programs\HackerRankCoding\Day6_evenIndexednOddIndexedcharactor\bin\Debug\netcoreapp3.1\Day6_evenIndexednOddIndexedcharactor.runtimeconfig.json
+D:\Sollers\C#Programs\HackerRankCoding\Day6_evenIndexednOddIndexedcharactor\bin\Debug\netcoreapp3.1\Day6_evenIndexednOddIndexedcharactor.runtimeconfig.dev.json
+D:\Sollers\C#Programs\HackerRankCoding\Day6_evenIndexednOddIndexedcharactor\bin\Debug\netcoreapp3.1\Day6_evenIndexednOddIndexedcharactor.dll
+D:\Sollers\C#Programs\HackerRankCoding\Day6_evenIndexednOddIndexedcharactor\bin\Debug\netcoreapp3.1\Day6_evenIndexednOddIndexedcharactor.pdb
+D:\Sollers\C#Programs\HackerRankCoding\Day6_evenIndexednOddIndexedcharactor\obj\Debug\netcoreapp3.1\Day6_evenIndexednOddIndexedcharactor.AssemblyInfoInputs.cache
+D:\Sollers\C#Programs\HackerRankCoding\Day6_evenIndexednOddIndexedcharactor\obj\Debug\netcoreapp3.1\Day6_evenIndexednOddIndexedcharactor.AssemblyInfo.cs
+D:\Sollers\C#Programs\HackerRankCoding\Day6_evenIndexednOddIndexedcharactor\obj\Debug\netcoreapp3.1\Day6_evenIndexednOddIndexedcharactor.csproj.CoreCompileInputs.cache
+D:\Sollers\C#Programs\HackerRankCoding\Day6_evenIndexednOddIndexedcharactor\obj\Debug\netcoreapp3.1\Day6_evenIndexednOddIndexedcharactor.dll
+D:\Sollers\C#Programs\HackerRankCoding\Day6_evenIndexednOddIndexedcharactor\obj\Debug\netcoreapp3.1\Day6_evenIndexednOddIndexedcharactor.pdb
+D:\Sollers\C#Programs\HackerRankCoding\Day6_evenIndexednOddIndexedcharactor\obj\Debug\netcoreapp3.1\Day6_evenIndexednOddIndexedcharactor.genruntimeconfig.cache
+D:\Sollers\C#Programs\HackerRankCoding\Day6_evenIndexednOddIndexedcharactor\obj\Debug\netcoreapp3.1\Day6_evenIndexednOddIndexedcharactor.csprojAssemblyReference.cache

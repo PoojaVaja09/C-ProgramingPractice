@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fjk1Lp2uO7yZYV+ZELJ5caXMRF7T9bS0vdoKXuCtjPW91QxuFiI3L4870qEmn9oUzHegE4Ur2rFdu/ruqTLeHw==",
+  "success": true,
+  "projectFilePath": "D:\\FromLptp\\Sollers\\Azure full stack2020\\Foundation track\\C# Programing\\C#Programs\\Assessment2\\Assessment2\\Assessment2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tusharv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

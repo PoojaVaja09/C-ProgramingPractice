@@ -1,0 +1,13 @@
+D:\Sollers\C#Programs\3_SumOfEvenOddResult\3_SumOfEvenOddResult\bin\Debug\netcoreapp3.1\3_SumOfEvenOddResult.exe
+D:\Sollers\C#Programs\3_SumOfEvenOddResult\3_SumOfEvenOddResult\bin\Debug\netcoreapp3.1\3_SumOfEvenOddResult.deps.json
+D:\Sollers\C#Programs\3_SumOfEvenOddResult\3_SumOfEvenOddResult\bin\Debug\netcoreapp3.1\3_SumOfEvenOddResult.runtimeconfig.json
+D:\Sollers\C#Programs\3_SumOfEvenOddResult\3_SumOfEvenOddResult\bin\Debug\netcoreapp3.1\3_SumOfEvenOddResult.runtimeconfig.dev.json
+D:\Sollers\C#Programs\3_SumOfEvenOddResult\3_SumOfEvenOddResult\bin\Debug\netcoreapp3.1\3_SumOfEvenOddResult.dll
+D:\Sollers\C#Programs\3_SumOfEvenOddResult\3_SumOfEvenOddResult\bin\Debug\netcoreapp3.1\3_SumOfEvenOddResult.pdb
+D:\Sollers\C#Programs\3_SumOfEvenOddResult\3_SumOfEvenOddResult\obj\Debug\netcoreapp3.1\3_SumOfEvenOddResult.csprojAssemblyReference.cache
+D:\Sollers\C#Programs\3_SumOfEvenOddResult\3_SumOfEvenOddResult\obj\Debug\netcoreapp3.1\3_SumOfEvenOddResult.csproj.CoreCompileInputs.cache
+D:\Sollers\C#Programs\3_SumOfEvenOddResult\3_SumOfEvenOddResult\obj\Debug\netcoreapp3.1\3_SumOfEvenOddResult.AssemblyInfoInputs.cache
+D:\Sollers\C#Programs\3_SumOfEvenOddResult\3_SumOfEvenOddResult\obj\Debug\netcoreapp3.1\3_SumOfEvenOddResult.AssemblyInfo.cs
+D:\Sollers\C#Programs\3_SumOfEvenOddResult\3_SumOfEvenOddResult\obj\Debug\netcoreapp3.1\3_SumOfEvenOddResult.dll
+D:\Sollers\C#Programs\3_SumOfEvenOddResult\3_SumOfEvenOddResult\obj\Debug\netcoreapp3.1\3_SumOfEvenOddResult.pdb
+D:\Sollers\C#Programs\3_SumOfEvenOddResult\3_SumOfEvenOddResult\obj\Debug\netcoreapp3.1\3_SumOfEvenOddResult.genruntimeconfig.cache

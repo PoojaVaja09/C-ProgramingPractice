@@ -1,0 +1,7 @@
+D:\Sollers\C#Programs\Hacker_Day2\Hacker_Day2\bin\Debug\Hacker_Day2.exe.config
+D:\Sollers\C#Programs\Hacker_Day2\Hacker_Day2\bin\Debug\Hacker_Day2.exe
+D:\Sollers\C#Programs\Hacker_Day2\Hacker_Day2\bin\Debug\Hacker_Day2.pdb
+D:\Sollers\C#Programs\Hacker_Day2\Hacker_Day2\obj\Debug\Hacker_Day2.csprojAssemblyReference.cache
+D:\Sollers\C#Programs\Hacker_Day2\Hacker_Day2\obj\Debug\Hacker_Day2.csproj.CoreCompileInputs.cache
+D:\Sollers\C#Programs\Hacker_Day2\Hacker_Day2\obj\Debug\Hacker_Day2.exe
+D:\Sollers\C#Programs\Hacker_Day2\Hacker_Day2\obj\Debug\Hacker_Day2.pdb

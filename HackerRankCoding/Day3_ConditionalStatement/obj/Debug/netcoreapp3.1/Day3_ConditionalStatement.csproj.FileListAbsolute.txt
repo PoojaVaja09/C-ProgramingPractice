@@ -1,0 +1,13 @@
+D:\Sollers\C#Programs\HackerRankCoding\Day3_ConditionalStatement\obj\Debug\netcoreapp3.1\Day3_ConditionalStatement.csprojAssemblyReference.cache
+D:\Sollers\C#Programs\HackerRankCoding\Day3_ConditionalStatement\obj\Debug\netcoreapp3.1\Day3_ConditionalStatement.AssemblyInfoInputs.cache
+D:\Sollers\C#Programs\HackerRankCoding\Day3_ConditionalStatement\obj\Debug\netcoreapp3.1\Day3_ConditionalStatement.AssemblyInfo.cs
+D:\Sollers\C#Programs\HackerRankCoding\Day3_ConditionalStatement\obj\Debug\netcoreapp3.1\Day3_ConditionalStatement.csproj.CoreCompileInputs.cache
+D:\Sollers\C#Programs\HackerRankCoding\Day3_ConditionalStatement\bin\Debug\netcoreapp3.1\Day3_ConditionalStatement.exe
+D:\Sollers\C#Programs\HackerRankCoding\Day3_ConditionalStatement\bin\Debug\netcoreapp3.1\Day3_ConditionalStatement.deps.json
+D:\Sollers\C#Programs\HackerRankCoding\Day3_ConditionalStatement\bin\Debug\netcoreapp3.1\Day3_ConditionalStatement.runtimeconfig.json
+D:\Sollers\C#Programs\HackerRankCoding\Day3_ConditionalStatement\bin\Debug\netcoreapp3.1\Day3_ConditionalStatement.runtimeconfig.dev.json
+D:\Sollers\C#Programs\HackerRankCoding\Day3_ConditionalStatement\bin\Debug\netcoreapp3.1\Day3_ConditionalStatement.dll
+D:\Sollers\C#Programs\HackerRankCoding\Day3_ConditionalStatement\bin\Debug\netcoreapp3.1\Day3_ConditionalStatement.pdb
+D:\Sollers\C#Programs\HackerRankCoding\Day3_ConditionalStatement\obj\Debug\netcoreapp3.1\Day3_ConditionalStatement.dll
+D:\Sollers\C#Programs\HackerRankCoding\Day3_ConditionalStatement\obj\Debug\netcoreapp3.1\Day3_ConditionalStatement.pdb
+D:\Sollers\C#Programs\HackerRankCoding\Day3_ConditionalStatement\obj\Debug\netcoreapp3.1\Day3_ConditionalStatement.genruntimeconfig.cache

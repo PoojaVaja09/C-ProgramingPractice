@@ -1,0 +1,26 @@
+D:\Sollers\Keyword_int\Keyword_int\obj\Debug\netcoreapp3.1\Keyword_int.csprojAssemblyReference.cache
+D:\Sollers\Keyword_int\Keyword_int\obj\Debug\netcoreapp3.1\Keyword_int.csproj.CoreCompileInputs.cache
+D:\Sollers\Keyword_int\Keyword_int\obj\Debug\netcoreapp3.1\Keyword_int.AssemblyInfoInputs.cache
+D:\Sollers\Keyword_int\Keyword_int\obj\Debug\netcoreapp3.1\Keyword_int.AssemblyInfo.cs
+D:\Sollers\Keyword_int\Keyword_int\bin\Debug\netcoreapp3.1\Keyword_int.exe
+D:\Sollers\Keyword_int\Keyword_int\bin\Debug\netcoreapp3.1\Keyword_int.deps.json
+D:\Sollers\Keyword_int\Keyword_int\bin\Debug\netcoreapp3.1\Keyword_int.runtimeconfig.json
+D:\Sollers\Keyword_int\Keyword_int\bin\Debug\netcoreapp3.1\Keyword_int.runtimeconfig.dev.json
+D:\Sollers\Keyword_int\Keyword_int\bin\Debug\netcoreapp3.1\Keyword_int.dll
+D:\Sollers\Keyword_int\Keyword_int\bin\Debug\netcoreapp3.1\Keyword_int.pdb
+D:\Sollers\Keyword_int\Keyword_int\obj\Debug\netcoreapp3.1\Keyword_int.dll
+D:\Sollers\Keyword_int\Keyword_int\obj\Debug\netcoreapp3.1\Keyword_int.pdb
+D:\Sollers\Keyword_int\Keyword_int\obj\Debug\netcoreapp3.1\Keyword_int.genruntimeconfig.cache
+D:\Sollers\Assignments\13th april\Keyword_int\Keyword_int\bin\Debug\netcoreapp3.1\Keyword_int.exe
+D:\Sollers\Assignments\13th april\Keyword_int\Keyword_int\bin\Debug\netcoreapp3.1\Keyword_int.deps.json
+D:\Sollers\Assignments\13th april\Keyword_int\Keyword_int\bin\Debug\netcoreapp3.1\Keyword_int.runtimeconfig.json
+D:\Sollers\Assignments\13th april\Keyword_int\Keyword_int\bin\Debug\netcoreapp3.1\Keyword_int.runtimeconfig.dev.json
+D:\Sollers\Assignments\13th april\Keyword_int\Keyword_int\bin\Debug\netcoreapp3.1\Keyword_int.dll
+D:\Sollers\Assignments\13th april\Keyword_int\Keyword_int\bin\Debug\netcoreapp3.1\Keyword_int.pdb
+D:\Sollers\Assignments\13th april\Keyword_int\Keyword_int\obj\Debug\netcoreapp3.1\Keyword_int.csprojAssemblyReference.cache
+D:\Sollers\Assignments\13th april\Keyword_int\Keyword_int\obj\Debug\netcoreapp3.1\Keyword_int.csproj.CoreCompileInputs.cache
+D:\Sollers\Assignments\13th april\Keyword_int\Keyword_int\obj\Debug\netcoreapp3.1\Keyword_int.AssemblyInfoInputs.cache
+D:\Sollers\Assignments\13th april\Keyword_int\Keyword_int\obj\Debug\netcoreapp3.1\Keyword_int.AssemblyInfo.cs
+D:\Sollers\Assignments\13th april\Keyword_int\Keyword_int\obj\Debug\netcoreapp3.1\Keyword_int.dll
+D:\Sollers\Assignments\13th april\Keyword_int\Keyword_int\obj\Debug\netcoreapp3.1\Keyword_int.pdb
+D:\Sollers\Assignments\13th april\Keyword_int\Keyword_int\obj\Debug\netcoreapp3.1\Keyword_int.genruntimeconfig.cache

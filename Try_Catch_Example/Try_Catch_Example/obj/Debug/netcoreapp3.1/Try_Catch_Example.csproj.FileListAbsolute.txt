@@ -1,0 +1,13 @@
+D:\Sollers\C#Programs\Try_Catch_Example\Try_Catch_Example\bin\Debug\netcoreapp3.1\Try_Catch_Example.exe
+D:\Sollers\C#Programs\Try_Catch_Example\Try_Catch_Example\bin\Debug\netcoreapp3.1\Try_Catch_Example.deps.json
+D:\Sollers\C#Programs\Try_Catch_Example\Try_Catch_Example\bin\Debug\netcoreapp3.1\Try_Catch_Example.runtimeconfig.json
+D:\Sollers\C#Programs\Try_Catch_Example\Try_Catch_Example\bin\Debug\netcoreapp3.1\Try_Catch_Example.runtimeconfig.dev.json
+D:\Sollers\C#Programs\Try_Catch_Example\Try_Catch_Example\bin\Debug\netcoreapp3.1\Try_Catch_Example.dll
+D:\Sollers\C#Programs\Try_Catch_Example\Try_Catch_Example\bin\Debug\netcoreapp3.1\Try_Catch_Example.pdb
+D:\Sollers\C#Programs\Try_Catch_Example\Try_Catch_Example\obj\Debug\netcoreapp3.1\Try_Catch_Example.csprojAssemblyReference.cache
+D:\Sollers\C#Programs\Try_Catch_Example\Try_Catch_Example\obj\Debug\netcoreapp3.1\Try_Catch_Example.AssemblyInfoInputs.cache
+D:\Sollers\C#Programs\Try_Catch_Example\Try_Catch_Example\obj\Debug\netcoreapp3.1\Try_Catch_Example.AssemblyInfo.cs
+D:\Sollers\C#Programs\Try_Catch_Example\Try_Catch_Example\obj\Debug\netcoreapp3.1\Try_Catch_Example.csproj.CoreCompileInputs.cache
+D:\Sollers\C#Programs\Try_Catch_Example\Try_Catch_Example\obj\Debug\netcoreapp3.1\Try_Catch_Example.dll
+D:\Sollers\C#Programs\Try_Catch_Example\Try_Catch_Example\obj\Debug\netcoreapp3.1\Try_Catch_Example.pdb
+D:\Sollers\C#Programs\Try_Catch_Example\Try_Catch_Example\obj\Debug\netcoreapp3.1\Try_Catch_Example.genruntimeconfig.cache

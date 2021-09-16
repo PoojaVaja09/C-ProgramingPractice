@@ -1,0 +1,12 @@
+D:\Sollers\Keyword-uint\Keyword-uint\bin\Debug\netcoreapp3.1\Keyword-uint.exe
+D:\Sollers\Keyword-uint\Keyword-uint\bin\Debug\netcoreapp3.1\Keyword-uint.deps.json
+D:\Sollers\Keyword-uint\Keyword-uint\bin\Debug\netcoreapp3.1\Keyword-uint.runtimeconfig.json
+D:\Sollers\Keyword-uint\Keyword-uint\bin\Debug\netcoreapp3.1\Keyword-uint.runtimeconfig.dev.json
+D:\Sollers\Keyword-uint\Keyword-uint\bin\Debug\netcoreapp3.1\Keyword-uint.dll
+D:\Sollers\Keyword-uint\Keyword-uint\bin\Debug\netcoreapp3.1\Keyword-uint.pdb
+D:\Sollers\Keyword-uint\Keyword-uint\obj\Debug\netcoreapp3.1\Keyword-uint.csproj.CoreCompileInputs.cache
+D:\Sollers\Keyword-uint\Keyword-uint\obj\Debug\netcoreapp3.1\Keyword-uint.AssemblyInfoInputs.cache
+D:\Sollers\Keyword-uint\Keyword-uint\obj\Debug\netcoreapp3.1\Keyword-uint.AssemblyInfo.cs
+D:\Sollers\Keyword-uint\Keyword-uint\obj\Debug\netcoreapp3.1\Keyword-uint.dll
+D:\Sollers\Keyword-uint\Keyword-uint\obj\Debug\netcoreapp3.1\Keyword-uint.pdb
+D:\Sollers\Keyword-uint\Keyword-uint\obj\Debug\netcoreapp3.1\Keyword-uint.genruntimeconfig.cache

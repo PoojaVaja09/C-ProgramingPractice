@@ -1,0 +1,13 @@
+D:\Sollers\C#Programs\12_SortNumber\12_SortNumber\bin\Debug\netcoreapp3.1\12_SortNumber.exe
+D:\Sollers\C#Programs\12_SortNumber\12_SortNumber\bin\Debug\netcoreapp3.1\12_SortNumber.deps.json
+D:\Sollers\C#Programs\12_SortNumber\12_SortNumber\bin\Debug\netcoreapp3.1\12_SortNumber.runtimeconfig.json
+D:\Sollers\C#Programs\12_SortNumber\12_SortNumber\bin\Debug\netcoreapp3.1\12_SortNumber.runtimeconfig.dev.json
+D:\Sollers\C#Programs\12_SortNumber\12_SortNumber\bin\Debug\netcoreapp3.1\12_SortNumber.dll
+D:\Sollers\C#Programs\12_SortNumber\12_SortNumber\bin\Debug\netcoreapp3.1\12_SortNumber.pdb
+D:\Sollers\C#Programs\12_SortNumber\12_SortNumber\obj\Debug\netcoreapp3.1\12_SortNumber.csprojAssemblyReference.cache
+D:\Sollers\C#Programs\12_SortNumber\12_SortNumber\obj\Debug\netcoreapp3.1\12_SortNumber.csproj.CoreCompileInputs.cache
+D:\Sollers\C#Programs\12_SortNumber\12_SortNumber\obj\Debug\netcoreapp3.1\12_SortNumber.AssemblyInfoInputs.cache
+D:\Sollers\C#Programs\12_SortNumber\12_SortNumber\obj\Debug\netcoreapp3.1\12_SortNumber.AssemblyInfo.cs
+D:\Sollers\C#Programs\12_SortNumber\12_SortNumber\obj\Debug\netcoreapp3.1\12_SortNumber.dll
+D:\Sollers\C#Programs\12_SortNumber\12_SortNumber\obj\Debug\netcoreapp3.1\12_SortNumber.pdb
+D:\Sollers\C#Programs\12_SortNumber\12_SortNumber\obj\Debug\netcoreapp3.1\12_SortNumber.genruntimeconfig.cache

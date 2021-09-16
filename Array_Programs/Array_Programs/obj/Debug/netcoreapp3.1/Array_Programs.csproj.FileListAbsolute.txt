@@ -1,0 +1,26 @@
+D:\Sollers\C#Programs\Array_Programs\Array_Programs\bin\Debug\netcoreapp3.1\Array_Programs.exe
+D:\Sollers\C#Programs\Array_Programs\Array_Programs\bin\Debug\netcoreapp3.1\Array_Programs.deps.json
+D:\Sollers\C#Programs\Array_Programs\Array_Programs\bin\Debug\netcoreapp3.1\Array_Programs.runtimeconfig.json
+D:\Sollers\C#Programs\Array_Programs\Array_Programs\bin\Debug\netcoreapp3.1\Array_Programs.runtimeconfig.dev.json
+D:\Sollers\C#Programs\Array_Programs\Array_Programs\bin\Debug\netcoreapp3.1\Array_Programs.dll
+D:\Sollers\C#Programs\Array_Programs\Array_Programs\bin\Debug\netcoreapp3.1\Array_Programs.pdb
+D:\Sollers\C#Programs\Array_Programs\Array_Programs\obj\Debug\netcoreapp3.1\Array_Programs.csprojAssemblyReference.cache
+D:\Sollers\C#Programs\Array_Programs\Array_Programs\obj\Debug\netcoreapp3.1\Array_Programs.AssemblyInfoInputs.cache
+D:\Sollers\C#Programs\Array_Programs\Array_Programs\obj\Debug\netcoreapp3.1\Array_Programs.AssemblyInfo.cs
+D:\Sollers\C#Programs\Array_Programs\Array_Programs\obj\Debug\netcoreapp3.1\Array_Programs.csproj.CoreCompileInputs.cache
+D:\Sollers\C#Programs\Array_Programs\Array_Programs\obj\Debug\netcoreapp3.1\Array_Programs.dll
+D:\Sollers\C#Programs\Array_Programs\Array_Programs\obj\Debug\netcoreapp3.1\Array_Programs.pdb
+D:\Sollers\C#Programs\Array_Programs\Array_Programs\obj\Debug\netcoreapp3.1\Array_Programs.genruntimeconfig.cache
+D:\Sollers\Azure full stack2020\Foundation track\C# Programing\C#Programs\Array_Programs\Array_Programs\bin\Debug\netcoreapp3.1\Array_Programs.exe
+D:\Sollers\Azure full stack2020\Foundation track\C# Programing\C#Programs\Array_Programs\Array_Programs\bin\Debug\netcoreapp3.1\Array_Programs.deps.json
+D:\Sollers\Azure full stack2020\Foundation track\C# Programing\C#Programs\Array_Programs\Array_Programs\bin\Debug\netcoreapp3.1\Array_Programs.runtimeconfig.json
+D:\Sollers\Azure full stack2020\Foundation track\C# Programing\C#Programs\Array_Programs\Array_Programs\bin\Debug\netcoreapp3.1\Array_Programs.runtimeconfig.dev.json
+D:\Sollers\Azure full stack2020\Foundation track\C# Programing\C#Programs\Array_Programs\Array_Programs\bin\Debug\netcoreapp3.1\Array_Programs.dll
+D:\Sollers\Azure full stack2020\Foundation track\C# Programing\C#Programs\Array_Programs\Array_Programs\bin\Debug\netcoreapp3.1\Array_Programs.pdb
+D:\Sollers\Azure full stack2020\Foundation track\C# Programing\C#Programs\Array_Programs\Array_Programs\obj\Debug\netcoreapp3.1\Array_Programs.csprojAssemblyReference.cache
+D:\Sollers\Azure full stack2020\Foundation track\C# Programing\C#Programs\Array_Programs\Array_Programs\obj\Debug\netcoreapp3.1\Array_Programs.AssemblyInfoInputs.cache
+D:\Sollers\Azure full stack2020\Foundation track\C# Programing\C#Programs\Array_Programs\Array_Programs\obj\Debug\netcoreapp3.1\Array_Programs.AssemblyInfo.cs
+D:\Sollers\Azure full stack2020\Foundation track\C# Programing\C#Programs\Array_Programs\Array_Programs\obj\Debug\netcoreapp3.1\Array_Programs.csproj.CoreCompileInputs.cache
+D:\Sollers\Azure full stack2020\Foundation track\C# Programing\C#Programs\Array_Programs\Array_Programs\obj\Debug\netcoreapp3.1\Array_Programs.dll
+D:\Sollers\Azure full stack2020\Foundation track\C# Programing\C#Programs\Array_Programs\Array_Programs\obj\Debug\netcoreapp3.1\Array_Programs.pdb
+D:\Sollers\Azure full stack2020\Foundation track\C# Programing\C#Programs\Array_Programs\Array_Programs\obj\Debug\netcoreapp3.1\Array_Programs.genruntimeconfig.cache

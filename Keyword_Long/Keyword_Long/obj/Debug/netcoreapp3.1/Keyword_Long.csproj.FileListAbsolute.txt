@@ -1,0 +1,13 @@
+D:\Sollers\Keyword_Long\Keyword_Long\bin\Debug\netcoreapp3.1\Keyword_Long.exe
+D:\Sollers\Keyword_Long\Keyword_Long\bin\Debug\netcoreapp3.1\Keyword_Long.deps.json
+D:\Sollers\Keyword_Long\Keyword_Long\bin\Debug\netcoreapp3.1\Keyword_Long.runtimeconfig.json
+D:\Sollers\Keyword_Long\Keyword_Long\bin\Debug\netcoreapp3.1\Keyword_Long.runtimeconfig.dev.json
+D:\Sollers\Keyword_Long\Keyword_Long\bin\Debug\netcoreapp3.1\Keyword_Long.dll
+D:\Sollers\Keyword_Long\Keyword_Long\bin\Debug\netcoreapp3.1\Keyword_Long.pdb
+D:\Sollers\Keyword_Long\Keyword_Long\obj\Debug\netcoreapp3.1\Keyword_Long.csprojAssemblyReference.cache
+D:\Sollers\Keyword_Long\Keyword_Long\obj\Debug\netcoreapp3.1\Keyword_Long.csproj.CoreCompileInputs.cache
+D:\Sollers\Keyword_Long\Keyword_Long\obj\Debug\netcoreapp3.1\Keyword_Long.AssemblyInfoInputs.cache
+D:\Sollers\Keyword_Long\Keyword_Long\obj\Debug\netcoreapp3.1\Keyword_Long.AssemblyInfo.cs
+D:\Sollers\Keyword_Long\Keyword_Long\obj\Debug\netcoreapp3.1\Keyword_Long.dll
+D:\Sollers\Keyword_Long\Keyword_Long\obj\Debug\netcoreapp3.1\Keyword_Long.pdb
+D:\Sollers\Keyword_Long\Keyword_Long\obj\Debug\netcoreapp3.1\Keyword_Long.genruntimeconfig.cache

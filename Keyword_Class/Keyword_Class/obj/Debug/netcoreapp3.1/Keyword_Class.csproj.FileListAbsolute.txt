@@ -1,0 +1,13 @@
+D:\Sollers\Keyword_Class\Keyword_Class\bin\Debug\netcoreapp3.1\Keyword_Class.exe
+D:\Sollers\Keyword_Class\Keyword_Class\bin\Debug\netcoreapp3.1\Keyword_Class.deps.json
+D:\Sollers\Keyword_Class\Keyword_Class\bin\Debug\netcoreapp3.1\Keyword_Class.runtimeconfig.json
+D:\Sollers\Keyword_Class\Keyword_Class\bin\Debug\netcoreapp3.1\Keyword_Class.runtimeconfig.dev.json
+D:\Sollers\Keyword_Class\Keyword_Class\bin\Debug\netcoreapp3.1\Keyword_Class.dll
+D:\Sollers\Keyword_Class\Keyword_Class\bin\Debug\netcoreapp3.1\Keyword_Class.pdb
+D:\Sollers\Keyword_Class\Keyword_Class\obj\Debug\netcoreapp3.1\Keyword_Class.csprojAssemblyReference.cache
+D:\Sollers\Keyword_Class\Keyword_Class\obj\Debug\netcoreapp3.1\Keyword_Class.csproj.CoreCompileInputs.cache
+D:\Sollers\Keyword_Class\Keyword_Class\obj\Debug\netcoreapp3.1\Keyword_Class.AssemblyInfoInputs.cache
+D:\Sollers\Keyword_Class\Keyword_Class\obj\Debug\netcoreapp3.1\Keyword_Class.AssemblyInfo.cs
+D:\Sollers\Keyword_Class\Keyword_Class\obj\Debug\netcoreapp3.1\Keyword_Class.dll
+D:\Sollers\Keyword_Class\Keyword_Class\obj\Debug\netcoreapp3.1\Keyword_Class.pdb
+D:\Sollers\Keyword_Class\Keyword_Class\obj\Debug\netcoreapp3.1\Keyword_Class.genruntimeconfig.cache

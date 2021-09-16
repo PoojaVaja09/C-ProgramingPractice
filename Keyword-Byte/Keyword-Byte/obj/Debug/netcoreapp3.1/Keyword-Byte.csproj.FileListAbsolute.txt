@@ -1,0 +1,12 @@
+D:\Sollers\Keyword-Byte\Keyword-Byte\bin\Debug\netcoreapp3.1\Keyword-Byte.exe
+D:\Sollers\Keyword-Byte\Keyword-Byte\bin\Debug\netcoreapp3.1\Keyword-Byte.deps.json
+D:\Sollers\Keyword-Byte\Keyword-Byte\bin\Debug\netcoreapp3.1\Keyword-Byte.runtimeconfig.json
+D:\Sollers\Keyword-Byte\Keyword-Byte\bin\Debug\netcoreapp3.1\Keyword-Byte.runtimeconfig.dev.json
+D:\Sollers\Keyword-Byte\Keyword-Byte\bin\Debug\netcoreapp3.1\Keyword-Byte.dll
+D:\Sollers\Keyword-Byte\Keyword-Byte\bin\Debug\netcoreapp3.1\Keyword-Byte.pdb
+D:\Sollers\Keyword-Byte\Keyword-Byte\obj\Debug\netcoreapp3.1\Keyword-Byte.csproj.CoreCompileInputs.cache
+D:\Sollers\Keyword-Byte\Keyword-Byte\obj\Debug\netcoreapp3.1\Keyword-Byte.AssemblyInfoInputs.cache
+D:\Sollers\Keyword-Byte\Keyword-Byte\obj\Debug\netcoreapp3.1\Keyword-Byte.AssemblyInfo.cs
+D:\Sollers\Keyword-Byte\Keyword-Byte\obj\Debug\netcoreapp3.1\Keyword-Byte.dll
+D:\Sollers\Keyword-Byte\Keyword-Byte\obj\Debug\netcoreapp3.1\Keyword-Byte.pdb
+D:\Sollers\Keyword-Byte\Keyword-Byte\obj\Debug\netcoreapp3.1\Keyword-Byte.genruntimeconfig.cache

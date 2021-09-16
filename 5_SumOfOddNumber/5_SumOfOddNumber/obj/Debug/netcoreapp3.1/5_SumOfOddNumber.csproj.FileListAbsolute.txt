@@ -1,0 +1,13 @@
+D:\Sollers\C#Programs\5_SumOfOddNumber\5_SumOfOddNumber\bin\Debug\netcoreapp3.1\5_SumOfOddNumber.exe
+D:\Sollers\C#Programs\5_SumOfOddNumber\5_SumOfOddNumber\bin\Debug\netcoreapp3.1\5_SumOfOddNumber.deps.json
+D:\Sollers\C#Programs\5_SumOfOddNumber\5_SumOfOddNumber\bin\Debug\netcoreapp3.1\5_SumOfOddNumber.runtimeconfig.json
+D:\Sollers\C#Programs\5_SumOfOddNumber\5_SumOfOddNumber\bin\Debug\netcoreapp3.1\5_SumOfOddNumber.runtimeconfig.dev.json
+D:\Sollers\C#Programs\5_SumOfOddNumber\5_SumOfOddNumber\bin\Debug\netcoreapp3.1\5_SumOfOddNumber.dll
+D:\Sollers\C#Programs\5_SumOfOddNumber\5_SumOfOddNumber\bin\Debug\netcoreapp3.1\5_SumOfOddNumber.pdb
+D:\Sollers\C#Programs\5_SumOfOddNumber\5_SumOfOddNumber\obj\Debug\netcoreapp3.1\5_SumOfOddNumber.csprojAssemblyReference.cache
+D:\Sollers\C#Programs\5_SumOfOddNumber\5_SumOfOddNumber\obj\Debug\netcoreapp3.1\5_SumOfOddNumber.csproj.CoreCompileInputs.cache
+D:\Sollers\C#Programs\5_SumOfOddNumber\5_SumOfOddNumber\obj\Debug\netcoreapp3.1\5_SumOfOddNumber.AssemblyInfoInputs.cache
+D:\Sollers\C#Programs\5_SumOfOddNumber\5_SumOfOddNumber\obj\Debug\netcoreapp3.1\5_SumOfOddNumber.AssemblyInfo.cs
+D:\Sollers\C#Programs\5_SumOfOddNumber\5_SumOfOddNumber\obj\Debug\netcoreapp3.1\5_SumOfOddNumber.dll
+D:\Sollers\C#Programs\5_SumOfOddNumber\5_SumOfOddNumber\obj\Debug\netcoreapp3.1\5_SumOfOddNumber.pdb
+D:\Sollers\C#Programs\5_SumOfOddNumber\5_SumOfOddNumber\obj\Debug\netcoreapp3.1\5_SumOfOddNumber.genruntimeconfig.cache

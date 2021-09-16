@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KYuroJ8E+qRgDP3HoQ74hrqITTNd62fhVzeDIrp5r4VnJi1q899pec5DjwnwKsOCr7h6JJdN22UEjBLx0N4AHA==",
+  "success": true,
+  "projectFilePath": "D:\\FromLptp\\Sollers\\Azure full stack2020\\Foundation track\\C# Programing\\C#Programs\\Keyword_Bool\\Keyword_Bool\\Keyword_Bool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tusharv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

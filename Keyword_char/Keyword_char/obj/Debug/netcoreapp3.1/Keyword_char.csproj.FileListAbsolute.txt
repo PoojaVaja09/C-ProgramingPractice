@@ -1,0 +1,13 @@
+D:\Sollers\Keyword_char\Keyword_char\bin\Debug\netcoreapp3.1\Keyword_char.exe
+D:\Sollers\Keyword_char\Keyword_char\bin\Debug\netcoreapp3.1\Keyword_char.deps.json
+D:\Sollers\Keyword_char\Keyword_char\bin\Debug\netcoreapp3.1\Keyword_char.runtimeconfig.json
+D:\Sollers\Keyword_char\Keyword_char\bin\Debug\netcoreapp3.1\Keyword_char.runtimeconfig.dev.json
+D:\Sollers\Keyword_char\Keyword_char\bin\Debug\netcoreapp3.1\Keyword_char.dll
+D:\Sollers\Keyword_char\Keyword_char\bin\Debug\netcoreapp3.1\Keyword_char.pdb
+D:\Sollers\Keyword_char\Keyword_char\obj\Debug\netcoreapp3.1\Keyword_char.csprojAssemblyReference.cache
+D:\Sollers\Keyword_char\Keyword_char\obj\Debug\netcoreapp3.1\Keyword_char.csproj.CoreCompileInputs.cache
+D:\Sollers\Keyword_char\Keyword_char\obj\Debug\netcoreapp3.1\Keyword_char.AssemblyInfoInputs.cache
+D:\Sollers\Keyword_char\Keyword_char\obj\Debug\netcoreapp3.1\Keyword_char.AssemblyInfo.cs
+D:\Sollers\Keyword_char\Keyword_char\obj\Debug\netcoreapp3.1\Keyword_char.dll
+D:\Sollers\Keyword_char\Keyword_char\obj\Debug\netcoreapp3.1\Keyword_char.pdb
+D:\Sollers\Keyword_char\Keyword_char\obj\Debug\netcoreapp3.1\Keyword_char.genruntimeconfig.cache
